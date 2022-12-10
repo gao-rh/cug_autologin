@@ -18,7 +18,8 @@ https://registry.npmmirror.com/binary.html?path=chromedriver/
 
 要和chrome版本对应
 
-设置 >> 关于chrome 里面查看版本![1670657454530](image/login/1670657454530.png)
+
+设置 >> 关于chrome 里面查看版本![1670657454530](https://user-images.githubusercontent.com/66621797/206839317-b66f724d-fecf-4396-99a0-ae1541f0a9d0.png)
 
 ## 运行代码
 
